@@ -1,1 +1,0 @@
-import{U as e,s as n}from"./settings-T4Ns1YM7.js";import{d as t,o as r,c as s}from"./index-VyasIRzw.js";const d=t({setup(){return r(()=>{new e(n).signinRedirect().then(a=>{})}),()=>s("div",null,null)}});export{d as default};

@@ -1,1 +1,0 @@
-System.register(["./settings-legacy-RvQ9F1O8.js","./index-legacy-ZKbAqVZP.js"],(function(n,t){"use strict";var e,u,i,c,s;return{setters:[function(n){e=n.U,u=n.s},function(n){i=n.d,c=n.o,s=n.c}],execute:function(){n("default",i({setup:function(){return c((function(){new e(u).signinRedirect().then((function(n){}))})),function(){return s("div",null,null)}}}))}}}));

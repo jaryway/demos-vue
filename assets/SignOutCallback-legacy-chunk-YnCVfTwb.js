@@ -1,0 +1,1 @@
+System.register(["./settings-legacy-chunk-RvQ9F1O8.js","./[name-legacy-eRAp56-M.js"],(function(n,t){"use strict";var e,u,c,i,s;return{setters:[function(n){e=n.U,u=n.s},function(n){c=n.d,i=n.o,s=n.c}],execute:function(){n("default",c({setup:function(){return i((function(){new e(u).signinRedirect().then((function(n){}))})),function(){return s("div",null,null)}}}))}}}));

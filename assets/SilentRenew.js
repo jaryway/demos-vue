@@ -1,1 +1,0 @@
-import{d as e,o as n,c as t,bS as s}from"./index.js";import{U as o,s as r}from"./settings.js";const m=e({setup(){return s(),n(()=>{new o(r).signinSilentCallback().then(i=>{})}),()=>t("div",null,null)}});export{m as default};

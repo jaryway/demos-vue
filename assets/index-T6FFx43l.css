@@ -1,0 +1,1 @@
+.container{display:flex}.left{flex:0 0 580px;padding:0 16px;display:flex;flex-direction:column}.left .info{display:flex;border:solid 1px #dcdfe6;padding:4px 8px;flex-direction:column}.form-item{margin-top:10px}.form-item .count{padding:6px}.form-item-label{margin-bottom:4px}
